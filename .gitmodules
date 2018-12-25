@@ -1,0 +1,3 @@
+[submodule "graphzigbee2mqtt"]
+	path = graphzigbee2mqtt
+	url = https://github.com/DHDSP/graphzigbee2mqtt.git
